@@ -2,36 +2,26 @@
 
 <h3 align="center">Undergraduate | IT Specializing in AI</h3>
 
-I'm a [degree/role] specializing in **[your field]** at [Your University/Institution], with a passion for [what drives you / what you build].
+I'm an undergraduate specializing in **Artificial Intelligence** at , Sri Lanka Institute of Information Technology (SLIIT)  with a passion for exploring the potential of AI to build smart solutions for real-world applications.
 
-My interests lie at the intersection of **[Interest 1]**, **[Interest 2]**, **[Interest 3]**, and **[Interest 4]**. I enjoy [what you enjoy doing — building, researching, solving, etc.].
+My interests lie at the intersection of **Machine Learning**, **Deep Learning**, **Computer Vision** and **NLP**. I enjoy exploring new technologies and applying them to solve real-world challenges.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 [Your Degree] (Specializing in [Specialization])
-- 📍 [Your Location]
-- 📊 CGPA/GPA: [Your GPA]
-- 📝 [Publication / Award / Certification]
-- 🌱 Always learning something new in [field].
-
----
-
-### 🔬 Research
-
-**[Your Research Paper / Project Title]**
-
-- 📄 Accepted at [Conference/Journal Name]
-- 📚 To be published by [Publisher]
+- 🎓 B.Sc. (Hons.) In Information Technology Specializing in Artificial Intelligence        
+- 📍 Colombo, Sri Lanka
+- 📊 CGPA/GPA: 3.52
+- 🌱 Always learning something new in AI.
 
 ---
 
 ### 📖 Current Interests
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- Machine Learning
+- Deep Learning
+- Computer Vision
 - [Interest 4]
 - [Interest 5]
 - [Interest 6]
@@ -50,7 +40,6 @@ My interests lie at the intersection of **[Interest 1]**, **[Interest 2]**, **[I
 **AI & Machine Learning**
 - Scikit-learn
 - PyTorch
-- XGBoost
 - CNN
 - Pandas
 - NumPy
@@ -61,7 +50,6 @@ My interests lie at the intersection of **[Interest 1]**, **[Interest 2]**, **[I
 - Node.js
 - Express.js
 - JSP / Servlets
-- Streamlit
 
 **Databases**
 - MySQL
@@ -79,13 +67,13 @@ My interests lie at the intersection of **[Interest 1]**, **[Interest 2]**, **[I
 
 ### 🔗 Connect with Me
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 📧 Email: reshanisamarakoon@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/reshani-samarakoon-157771309/
 - 🐙 GitHub: You're already here 😄
 
 ---
 
-> *"[Your favorite quote here]"*
+> *"Driven by curiosity to build intelligent, secure, and impactful technologies."*
 
 ---
 
