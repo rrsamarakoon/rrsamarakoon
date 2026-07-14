@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Reshani Samarakoon 👋</h1>
 
-<h3 align="center">[Your Title/Role] | [Specialization] | [Role]</h3>
+<h3 align="center">Undergraduate | IT Specializing in AI</h3>
 
 I'm a [degree/role] specializing in **[your field]** at [Your University/Institution], with a passion for [what drives you / what you build].
 
