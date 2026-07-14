@@ -22,10 +22,6 @@ My interests lie at the intersection of **Machine Learning**, **Deep Learning**,
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- [Interest 4]
-- [Interest 5]
-- [Interest 6]
-- [Interest 7]
 
 ---
 
